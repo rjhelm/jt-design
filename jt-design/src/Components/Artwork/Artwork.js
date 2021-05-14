@@ -1,5 +1,5 @@
 import React from 'react';
-import Thumbnail from './Thumbnail.js';
+import Thumbnail from '../Thumbnail.js';
 import jclark from '../../public/img/jclark.jpg';
 import jid from '../../public/img/jid.jpg';
 import juju from '../../public/img/juju.jpg';
